@@ -1,4 +1,4 @@
 # BarBotEsp32
 Blynk+LineNotify+ultrasonic+relay+water pump DC
-<img src="https://github.com/my_username/xxx/blob/master/Diagram.jpg" width="500"/>
+<img src="https://github.com/Kantinan-Koman/BarBotEsp32/blob/master/Diagram" width="1000"/>
 
